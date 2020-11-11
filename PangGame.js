@@ -78,7 +78,7 @@ function gameOverScreen() {
 
 function mousePressed() {
 
-  if (gameScreen == 0) {
+  if (gameScreen == 1) {
     startGame();
   }
   if (gameScreen == 2) {
